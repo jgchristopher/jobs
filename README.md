@@ -12,7 +12,9 @@ jobs
 * You are passionante about Web development
 * You are interested in learning new technologies, standards, and techniques
 * You use frameworks or libraries because it is convienent, not because you have to
-* Key Skills
+
+*Key Skills*  
+
 * HTML
 * CSS (LESS/SASS)
 * JavaScript
@@ -36,7 +38,9 @@ jobs
 * You are self managed
 * You believe in open-source software
 * You are interested in learning new technologies, standards, and techniques
-* Key Skills
+
+*Key Skills*  
+
 * NodeJS or Asynchronous Programming
 * AMQP or Message Queues
 * PostgreSQL
@@ -51,7 +55,9 @@ jobs
 * You believe continuous integration is the only way
 * You understand the importance of Frontend DevOps
 * You enjoy building tooling around maintenance and deployments
-* Key Skills
+
+*Key Skills*  
+
 * Amazon Web Service experience
 * Linux/Unix CLI expert
 * Scripting experience
@@ -71,7 +77,9 @@ jobs
 * You are self managed
 * You enjoy the challenge of solving client problems quickly and doing customer focued R&D
 * You are have worked in a Scrum/KanBan environment
-* Key Skills
+
+*Key Skills*  
+
 * Ruby programming experience
 * Mysql experience
 * JavaScript experience
